@@ -1,0 +1,1 @@
+. package.sh && pacman -U restyle-*.pkg.tar.zst

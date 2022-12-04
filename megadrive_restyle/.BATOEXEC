@@ -1,0 +1,16 @@
+exec = /bin/bash
+
+.INSTALL_START
+
+. /userdata/share/megadrive_restyle/install.sh
+batocera-save-overlay
+
+.INSTALL_END
+
+.UNINSTALL_START
+
+echo "Not yet :("
+. /userdata/share/megadrive_restyle/install.sh --unistall
+batocera-save-overlay
+
+.UNINSTALL_END

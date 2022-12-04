@@ -1,0 +1,8 @@
+--- /usr/share/emulationstation/themes/es-theme-carbon/theme.xml
++++ /usr/share/emulationstation/themes/es-theme-carbon/theme.xml
+@@ -224,4 +224,5 @@
+     <include name="yes" displayName="${yes}">./subsets/storyboards.xml</include>
+     <include name="no" displayName="${no}"/>
+   </subset>
++  <include subset="helpsystem" name="megadrivebuttons" displayName="Megadrive buttons">./subsets/help/megadrive.xml</include>
+ </theme>

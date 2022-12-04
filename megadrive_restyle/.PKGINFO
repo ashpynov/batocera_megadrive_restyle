@@ -1,0 +1,9 @@
+pkgname = megadrive_restyle
+pkgver = 0.0.0-1
+pkgdesc = Restyle your Batocera v34+ to be more friendly for 6-buttons Sega Megadrive gamepads like amazing 8bitDo M30 or Retroflag.
+arch = any
+group = misc
+packager = Artem Shpynov
+url = https://wiki.batocera.org/startsize = 344064
+builddate = 1670175403
+size = 266240
