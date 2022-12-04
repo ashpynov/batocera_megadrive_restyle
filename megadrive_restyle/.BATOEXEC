@@ -3,6 +3,7 @@ exec = /bin/bash
 .INSTALL_START
 
 . /userdata/share/megadrive_restyle/install.sh
+batocera-es-swissknife --restart
 
 .INSTALL_END
 

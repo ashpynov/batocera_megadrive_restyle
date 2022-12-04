@@ -29,7 +29,7 @@ case "$1" in
     ;;
 
   *)
-    echo "Usage: make <target>"
+    echo "Usage: bash make <target>"
     echo "Where target are:"
     echo "   package - build pacman package"
     echo "   install - install files as Copy"
