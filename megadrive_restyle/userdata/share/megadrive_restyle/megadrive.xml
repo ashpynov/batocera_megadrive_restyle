@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  <variables>
+    <segaresources>/userdata/share/megadrive_restyle/megadrive</segaresources>
+  </variables>
+  <include>./default.xml</include>
+  <customView name="system,basic,detailed,gamecarousel,grid,Carousel,Tiles,Boxes,Icons">
+    <helpsystem name="help">
+      <iconColor>${baseColor}</iconColor>
+      <iconA>${segaresources}/sega_c.svg</iconA>
+      <iconB>${segaresources}/sega_b.svg</iconB>
+      <iconX>${segaresources}/sega_y.svg</iconX>
+      <iconY>${segaresources}/sega_a.svg</iconY>
+      <iconL>${segaresources}/sega_x.svg</iconL>
+      <iconR>${segaresources}/sega_z.svg</iconR>
+      <iconLT>${segaresources}/sega_l.svg</iconLT>
+      <iconRT>${segaresources}/sega_r.svg</iconRT>
+      <iconStart>${segaresources}/sega_start.svg</iconStart>
+      <iconSelect>${segaresources}/sega_select.svg</iconSelect>
+    </helpsystem>
+  </customView>
+</theme>
