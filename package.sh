@@ -1,1 +1,0 @@
-cd megadrive_restyle && batocera-makepkg -f; cd ..
