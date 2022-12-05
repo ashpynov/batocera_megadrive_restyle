@@ -1,0 +1,2 @@
+This should be copied to:
+/userdata/share/restyle/usr/share/libretro/assets/xmb/monochrome/png

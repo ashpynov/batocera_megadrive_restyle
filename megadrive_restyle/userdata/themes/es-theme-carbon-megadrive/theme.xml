@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Theme: es-theme-carbon-megadrive
+author: 
+license: creative commons CC-BY-NC-SA
+patch ES Carbon
+originally based on: "Carbon" by Eric Hettervik (Rookervik)
+originally based on: "simple" by nils bonenberger
+-->
+<theme defaultView="Icons">
+  <formatVersion>7</formatVersion>
+  <include>./original_theme.xml</include>
+  <include subset="helpsystem" name="megadrivebuttons" displayName="Megadrive buttons">./megadrive.xml</include>
+</theme>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./default.xml</include>
+  <customView name="system,basic,detailed,gamecarousel,grid,Carousel,Tiles,Boxes,Icons">
+    <helpsystem name="help">
+      <iconColor>${baseColor}</iconColor>
+      <iconA>./megadrive_buttons/megadrive/sega_c.svg</iconA>
+      <iconB>./megadrive_buttons/megadrive/sega_b.svg</iconB>
+      <iconX>./megadrive_buttons/megadrive/sega_y.svg</iconX>
+      <iconY>./megadrive_buttons/megadrive/sega_a.svg</iconY>
+      <iconL>./megadrive_buttons/megadrive/sega_x.svg</iconL>
+      <iconR>./megadrive_buttons/megadrive/sega_z.svg</iconR>
+      <iconLT>./megadrive_buttons/megadrive/sega_l.svg</iconLT>
+      <iconRT>./megadrive_buttons/megadrive/sega_r.svg</iconRT>
+      <iconStart>./megadrive_buttons/megadrive/sega_start.svg</iconStart>
+      <iconSelect>./megadrive_buttons/megadrive/sega_select.svg</iconSelect>
+    </helpsystem>
+  </customView>
+</theme>
