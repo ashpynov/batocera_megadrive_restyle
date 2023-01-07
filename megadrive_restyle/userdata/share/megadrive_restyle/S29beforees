@@ -1,5 +1,0 @@
-#!/bin/sh
-
-if test -e "/userdata/system/configs/emulationstation/scripts/start"; then
-    find /userdata/system/configs/emulationstation/scripts/start/.  -executable -type f  | xargs -I {} bash {} 
-fi
